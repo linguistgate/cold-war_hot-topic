@@ -1,0 +1,153 @@
+#+TITLE: Cold War, Hot Topic
+#+AUTHOR: Matthew Adams, Antonette Hrycyk
+#+EMAIL: m2eadams@gmail.com
+#+SETUPFILE: ~/org/css/org-html-themes/setup/theme-readtheorg.setup
+#+OPTIONS: H:2 p:t
+#+COLUMNS: %25ITEM %5TODO %25SCHEDULED %1PRIORITY %20TAGS
+#+STARTUP: indent showall
+* Project objective
+** The Cold War
+The Cold War between the Western Bloc (the United States, NATO, and others) and the Eastern Bloc (the Soviet Union and satellite states) was a period of political and military tension. It lasted approximately from the end of the Second World War to the early 1990s following the collapse of the Soviet Union.
+
+There are many entry points for middle school students to approach topics in the Cold War from a humanistic perspective. We think one possibility with the Cold War is to talk about how there are many different kinds of conflicts; not all are fought with weapons. In particular, there can be "proxy" competitions, and skillful use of propaganda can be used to sway sides and influence opinion. The Space Race conducted by the United States and the Soviet Union is a good example of a proxy competition.
+
+From this proxy "war," students can connect how space missions are /both/ scientific /and/ ideological. They make statements about goals and ambitions, but they are fundamentally scientific pursuits. There is a wealth of possibility for illustrating how geopolitical concerns intersect with scientific progress, for example.
+
+** Researching a space mission
+
+In this project, students research a particular space launch. The particular launch can be drawn from any point during the Cold War, ranging from the Russian launch of Sputnik, the Mercury/Gemini/Apollo launches, or Vostok/Soyuz cosmonauts (as well as the Space Shuttle program). Students will need to familiarize themselves with
+- the mission objective
+- the insignia of the crew
+- details of the mission, including
+  - the names of crew members
+  - any insignia or artwork
+  - mission accomplishments and failures
+- possible political motivations for the mission
+
+** Project
+
+To make the project more feasible for its short length, each student group will be /given/ a particular space mission. This limits student choice, of course, and in a larger project, students could undertake choosing their own.
+
+With this background, students will propose a new space mission based on the one they have been given.
+
+They can choose to be employees of SpaceX, NASA, the China National Space Administration (CNSA), or others (India!). The proposal has two facets:
+- understanding that missions are tightly executed, well-planned events that feature massive system planning and specific individual contributions
+- understanding that a mission's objective often has a political background
+
+** Guiding question
+
+How were the missions flown during the Space Race contributing to present-day science?
+
+* Assessment
+
+For this project, students will create a *mission dossier* consisting of the following components:
+
+- Artwork and insignia for the mission
+- A slogan the defines the mission's scope and ambition
+- Detailed information about the rocket type, mission objectives, crew member roles, etc.
+- A short news release that sets out the mission details for the public
+
+Individual students will be responsible for one component of this project. The important thing is that the mission "hangs together"; choice of artwork and slogan should fit in with mission objectives, for example.
+
+The dossier will be built using a Wiki template. This will have been started by the teacher, but students are free to modify the template within reason.
+
+* Sequence of events and tasks
+** Day 1
+*** Group reaction and discussion of Space Race
+- Excerpt from Kennedy's "We choose to go to the moon" speech (Address at Rice University on the Nation's Speech Effort)
+  - https://www.youtube.com/watch?v=g25G1M4EXrQ
+  - Gather student reaction to video
+  - Ask them to isolate "slogans" and key phrases
+    - "No strife, no prejudice, no national conflict in outer space yet"
+    - "Not because they are easy, but because they are hard"
+    - "We choose to go to the Moon!"
+- Excerpt from news coverage of Sputnik II, focused on news reels that convey fear and apprehension about the launch
+  - https://www.youtube.com/watch?v=RBeAZ35G4X0
+  - Gather student reaction to the video
+  - Ask them to identify ways that the rocket launch aroused fear, suspicion, etc.
+  - Lead a discussion of how this is different from war --- and ways that it is similar.
+*** Discussion of project objectives
+- Show students a sample mission dossier
+- Students select roles within each team (artist, sloganeer, engineer, reporter)
+- Guided handouts are provided so that students can start work at home. They need to return with the handouts filled in (including several more videos to watch), a short blurb about propaganda and the Cold War, and another short video on how SpaceX, NASA, and other agencies/companies are starting a new space race with new mission possibilities.
+** Day 2
+*** Building the mission dossier
+- Students will spend class time going between individual work and group check-ins
+- Two 10-minute scrums with group to comment on each other's work and give feedback/advice, as well as to check that things are hanging together
+- Two 20-minute Pomodoro sessions of getting material up on the Wiki
+*** Homework
+- Proofreading and editing of Wiki language
+- Helping team members finish up loose ends
+** Day 3
+*** Building the mission dossier
+- Students will spend class time going between individual work and group check-ins
+- Two 10-minute scrums with group to comment on each other's work and give feedback/advice, as well as to check that things are hanging together
+- Two 20-minute Pomodoro sessions of getting material up on the Wiki
+*** Homework
+- Proofreading and editing of Wiki language
+- Helping team members finish up loose ends
+** Presentation of dossier
+*** Presenting the dossier
+- Presentation at University of San Diego
+  - Public is invited to view completed projects
+  - A laptop is open displaying the completed Wiki
+- Teams are broken in two:
+  - Half of the team circulates and takes notes on other team's missions
+  - Half of the team stays at the laptop and answers questions about the mission
+  - Students need to bring notecards and ask two questions about the mission
+*** Reflecting on the dossiers
+- Bring discussion back to the class at large
+- How do the individual missions reflect the ideas of the Space Race?
+- Are the slogans and artwork warlike or reflective of peaceful intentions?
+- Do you think that mission objectives can create conflict with other countries having similar objectives?
+- We can end by talking about the challenges of colonizing Mars.
+* Checking for student understanding
+** Teacher role
+The primary responsibility of the teacher is to facilitate each group dissolving itself into individual roles and to ensure that the roles are equally divided. During building the dossier, the teacher circulates constantly, giving appropriate and directed feedback, helping students who are stuck, and encouraging groups to meet up if there are impasses or the cohesion of the mission seems insufficiently tight.
+** Learners of English
+- Guided handouts
+- Resources given to inclusion specialists and academic coaches ahead of time so they're familiar with the project
+* Throughlines
+** Voice and choice
+Projects are designed to include student, parent & community voice in the co-design of
+educational experiences
+- How are students included in the project planning processes?
+Students will be able to choose their role within the project; the type of mission they'd like to describe; and all details of their mission.
+- How are parents invited into the various processes of the project?
+Parents or grandparents are invited to share their experiences during the Cold War. A lot of parents or grandparents living in the United States vividly remember the launch of Sputnik, for example, and often describe a mix of fear and wonder associated with the event.
+- How are community members or experts used in planning, critique or revision of student work?
+Because of how short the project is, I'd likely not schedule a community member to be present, but in an extended project, it's possible to find a member of the space community, a rocket scientist, or a journalist who reports of tech subjects to come to the class and give valuable perspective on their role.
+- How might students, parents, community members and experts be included in assessment?
+At the conclusion of the project, an open document with student, parent, and teacher feedback will be filled out. This gives each party room to talk about ways to improve the project and what really worked.
+** Equity and diversity
+Projects are designed to provide access and challenge for all students to engage in meaningful work. Projects are designed to value a wide range of perspectives, skills, knowledge, content, and products.
+- How will struggling students access this work?
+Students are part of teams in which success depends on all members contributing a meaningful amount of work. It's conceivable that further roles could be invented that give struggling students increased ways to contribute.
+- How will all students find moments of challenge in this work?
+To make the mission cohere, students need to make sure that all members are on the same page. They must agree on a mission objective, and this forms the basis for their individual contributions.
+- What are different ways in which students may shine in this project?
+There are multiple roles to fill: artist, journalist, technician, sloganeer. Students can gravitate to the role that suits them the most.
+** Reflective practice
+Projects are designed to foster thoughtful, deliberate practice.
+- How are opportunities created for students and teachers to collect their thoughts about their work?
+- How does this project foster collegial relationships designed to help students and teachers meditate on their experiences?
+Students begin to understand how
+- How might reflections be incorporated in assessment?
+- How are reflections incorporated in the thoughtful development of deliberate practice?
+** Passion
+Projects are designed to tap into students’ and teachers’ personal questions, values, and passions.
+- Why is this work important?
+It's kind of a mini-illustration of the military-industrial complex, in one sense. It makes students aware that working for a company, even as an engineer, is an activity that's embedded in a lot of other issues happening at the time. Companies and missions don't happen in isolation: they're often responses to geopolitical realities.
+- What makes this work authentic?
+The project involves making objects that any space mission would have: insignia, news releases, technical specifications. Each of these involves a different language and research abilities.
+- How might students and teachers engage in deep inquiry through this project?
+There are multiple entry points to get deeper into many topics: propaganda and language, the history of the Space Race, times when the Cold War got pretty hot (Korea, Vietnam, Olympic boycotts, the Cuban Missile Crisis...).
+- Where will the project live after the exhibition is over?
+It will have an online home and can form part of student's portfolio.
+
+
+
+
+
+
+
