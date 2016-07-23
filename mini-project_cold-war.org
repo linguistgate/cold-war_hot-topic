@@ -47,6 +47,8 @@ For this project, students will create a *mission dossier* consisting of the fol
 - Detailed information about the rocket type, mission objectives, crew member roles, etc.
 - A short news release that sets out the mission details for the public
 
+*@@html:<font color = "red">@@For students who need extra supports, (i.e. - students learning English or those who struggle with executive functioning), graphic organizers and vocabulary definition sheets will be provided upon request by either the teacher or an academic coach.@@html:</font>@@*
+
 Individual students will be responsible for one component of this project. The important thing is that the mission "hangs together"; choice of artwork and slogan should fit in with mission objectives, for example.
 
 The dossier will be built using a Wiki template. This will have been started by the teacher, but students are free to modify the template within reason.
@@ -66,10 +68,14 @@ The dossier will be built using a Wiki template. This will have been started by 
   - Gather student reaction to the video
   - Ask them to identify ways that the rocket launch aroused fear, suspicion, etc.
   - Lead a discussion of how this is different from war --- and ways that it is similar.
+
+*@@html:<font color = "red">@@Students who are learning English who struggle with grammar, specifically Claus, will be given the written version of the speeches and newsreels in order to understand how the spoken words correlate to written text. In addition, this will assist students in writing down notes or marking spaces within the documents where they have further questions or need context/vocabulary defined.@@html:</font>@@*
+
 *** Discussion of project objectives
 - Show students a sample mission dossier
 - Students select roles within each team (artist, sloganeer, engineer, reporter)
 - Guided handouts are provided so that students can start work at home. They need to return with the handouts filled in (including several more videos to watch), a short blurb about propaganda and the Cold War, and another short video on how SpaceX, NASA, and other agencies/companies are starting a new space race with new mission possibilities.
+*@@html:<font color = "red">@@Handouts can be modified if needed and will be collected first thing in the class. During a short period of KBAR to begin class, the teacher can flip through the completed handouts in order to check for understanding, targeting those students who are struggling or who are still developing their English language skills.@@html:</font>@@*
 ** Day 2
 *** Building the mission dossier
 - Students will spend class time going between individual work and group check-ins
@@ -78,6 +84,7 @@ The dossier will be built using a Wiki template. This will have been started by 
 *** Homework
 - Proofreading and editing of Wiki language
 - Helping team members finish up loose ends
+*@@html:<font color = "red">@@Intentional groupings will be made ahead of time by the teacher by having students list, on a notecard handed in, three students that they would like to work with and two students that they would not enjoy working with. In this way, students have some say in who they are comfortable working with and, specifically to students who are developing their English skills, students who will provide critical feedback.@@html:</font>@@*
 ** Day 3
 *** Building the mission dossier
 - Students will spend class time going between individual work and group check-ins
@@ -86,6 +93,7 @@ The dossier will be built using a Wiki template. This will have been started by 
 *** Homework
 - Proofreading and editing of Wiki language
 - Helping team members finish up loose ends
+*@@html:<font color = "red">@@Specifically for Juan, who does not feel 100% comfortable with his written skills in English, having a checklist of all of the items that need to be completed for the dossier will allow him to ensure that he has all of the components in order to complete this class. This will also benefit Juan, as his favorite class is most decidedly not Humanities. In addition, for the entire class and for students who are learning English, as a check for understanding, a checklist of uploading items to the wikisite will be on the board, and as each item is uploaded, it will be publically checked off by a group member. This allows groups to celebrate their accomplishments, but also shows groups who may be struggling or moving slower where they can ask for assistance from their peers.@@html:</font>@@*
 ** Presentation of dossier
 *** Presenting the dossier
 - Presentation at University of San Diego
@@ -131,7 +139,6 @@ There are multiple roles to fill: artist, journalist, technician, sloganeer. Stu
 Projects are designed to foster thoughtful, deliberate practice.
 - How are opportunities created for students and teachers to collect their thoughts about their work?
 - How does this project foster collegial relationships designed to help students and teachers meditate on their experiences?
-Students begin to understand how
 - How might reflections be incorporated in assessment?
 - How are reflections incorporated in the thoughtful development of deliberate practice?
 ** Passion
